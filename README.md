@@ -1,7 +1,5 @@
 - 👋 Hi, This is Vikas Kumar
-- 👀 I’m interested in C++ projects
-- 🌱 I’m currently learning advance DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C++ project
 - 📫 My email address -> vkg360.vikas@gmail.com
 
 <!---
