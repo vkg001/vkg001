@@ -1,5 +1,5 @@
 - 👋 Hi, This is Vikas Kumar
-- 👀 I’m interested in C++ project
+- 👀 I’m interested in C++ projects
 - 📫 My email address -> vkg360.vikas@gmail.com
 
 <!---
