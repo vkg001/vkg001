@@ -1,6 +1,3 @@
-- 👋 Hi, This is Vikas Kumar
-- 👀 I’m interested in C++ projects
-- 📫 My email address -> vkg360.vikas@gmail.com
 
 <!---
 vkg001/vkg001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
